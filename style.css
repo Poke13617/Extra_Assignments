@@ -1,6 +1,6 @@
 .article{background-color:whitesmoke}
 .header{background-color:lightskyblue}
 .navigation{color:darkblue}
-.main_content{font-size:20px;font-family:Verdana, Geneva, Tahoma, sans-serif}
+.main_content{font-size:20px;font-family:Verdana, Geneva, Tahoma, sans-serif; image{height:300px;width:200px}}
 .footer{font-size:11px}
 .copyright{color:red}
